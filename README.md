@@ -1,8 +1,5 @@
 # Pi Wallet
 
-![Pi Wallet Logo](https://piwallet.pitechnologies.live/logo.png](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=148,fit=crop,q=95/AwvDrDznN8SzL3pX/pi-walletx-Y4Lx4DLPP6iy6QQe.png)
-
-![Pi Wallet Logo](Pi WalletX.png)
 ## Overview
 
 **Pi Wallet** is a cutting-edge budgeting app by Pi Technologies, designed to help users seamlessly track their daily expenses and income. With its user-friendly interface and insightful analytics, Pi Wallet empowers users to gain better control over their finances.
