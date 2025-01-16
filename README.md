@@ -1,6 +1,6 @@
 # Pi Wallet
 
-![Pi Wallet Logo](https://piwallet.pitechnologies.live/logo.png)
+![Pi Wallet Logo]([https://piwallet.pitechnologies.live/logo.png](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=148,fit=crop,q=95/AwvDrDznN8SzL3pX/pi-walletx-Y4Lx4DLPP6iy6QQe.png))
 
 ## Overview
 
