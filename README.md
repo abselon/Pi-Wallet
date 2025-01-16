@@ -15,12 +15,12 @@
 
 ## Installation
 
-To get started, clone this repository and follow the steps below:
+To get started with Pi Wallet, follow the steps below:
 
 ### Prerequisites
 
-- Node.js (v16 or higher)
-- npm or yarn
+- Flutter SDK (v3.0 or higher)
+- Dart (v2.17 or higher)
 
 ### Steps
 
@@ -32,22 +32,15 @@ To get started, clone this repository and follow the steps below:
 
 2. Install dependencies:
    ```bash
-   npm install
-   # or
-   yarn install
+   flutter pub get
    ```
 
-3. Start the development server:
+3. Run the app:
    ```bash
-   npm start
-   # or
-   yarn start
+   flutter run
    ```
 
-4. Open the app in your browser:
-   ```
-   http://localhost:3000
-   ```
+4. Select your connected device or emulator to preview the app.
 
 ## Contributing
 
