@@ -10,36 +10,7 @@
 - **Spending Analysis**: Understand your financial habits with detailed reports.
 - **Budget Management**: Set and achieve your savings goals.
 - **Secure and Private**: Your data is encrypted and protected.
-
-## Installation
-
-To get started with Pi Wallet, follow the steps below:
-
-### Prerequisites
-
-- Flutter SDK (v3.0 or higher)
-- Dart (v2.17 or higher)
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pitechnologies/pi-wallet.git
-   cd pi-wallet
-   ```
-
-2. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-
-3. Run the app:
-   ```bash
-   flutter run
-   ```
-
-4. Select your connected device or emulator to preview the app.
-
+  
 ## Contributing
 
 We welcome contributions to improve Pi Wallet! To contribute:
